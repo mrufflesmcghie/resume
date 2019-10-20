@@ -1,29 +1,31 @@
-- layout: left
-  name: Adult Learning - Milton Keynes
-  dates: 2019 - Current
-  qualification: City & Guilds Level 2 Certificate
-  quote: > Supporting Teaching and Learning in Schools
-  description: | # this will include new lines to allow paragraphs
-    
-- layout: left
-  name: Milton Keynes College
-  dates: 
-  qualification: City & Guilds Level 2 Certificate
-  quote: >Principles of Customer Service
-              >Introduction to Contact Centres
-  description: | # this will include new lines to allow paragraphs
-    
-- layout: left
-  name: IT Acedemy (Zenos) 
-  dates: 
-  qualification: City & Guilds Level 2 Certificate - Supporting Teaching and Learning in Schools 
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    
-- layout: left
-  name: Sir Frank Markham Community School
-  dates: 
-  qualification: City & Guilds Level 2 Certificate - Supporting Teaching and Learning in Schools 
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    
+--- 
+- 
+  dates: "2019 - Current"
+  description: ""
+  layout: left
+  name: "Adult Learning - Milton Keynes"
+  qualification: "City & Guilds Level 2 Certificate"
+  quote: "Supporting Teaching and Learning in Schools \n"
+- 
+  dates: ~
+  description: ""
+  layout: left
+  name: "Milton Keynes College"
+  qualification: "City & Guilds Level 2 Certificate"
+  quote: |
+      Principles of Customer Service
+          >Introduction to Contact Centres
+- 
+  dates: ~
+  description: ""
+  layout: left
+  name: "IT Acedemy (Zenos)"
+  qualification: "City & Guilds Level 2 Certificate - Supporting Teaching and Learning in Schools"
+  quote: ""
+- 
+  dates: ~
+  description: ""
+  layout: left
+  name: "Sir Frank Markham Community School"
+  qualification: "City & Guilds Level 2 Certificate - Supporting Teaching and Learning in Schools"
+  quote: ""
