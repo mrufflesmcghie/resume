@@ -4,7 +4,7 @@ repository: mrufflesmcghie/resume
 
 # Personal info
 name: Matt Ruffles-Mcghie
-title: Senior Network System Administrator
+title: Full Time Dad
 email: matt.rufflesmcghie@gmail.com
 website: www.github.com/mrufflesmcghie/resume
 
@@ -27,6 +27,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Matt and I'm a full time father & IT Support Engineer. After having 5 years away from IT to focus on Family Life I have made the decision to retrain in Teaching.
 
   I am currently studying City & Guilds Level 2 Certificate in Supporting Teaching and Learning in Schools. 
+  
   In my spare time I'm also learning <mark>Full Stack Web Development </mark> primarily focusing on Laravel & Vue. 
 
 # Projects Section
