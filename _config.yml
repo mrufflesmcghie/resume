@@ -4,7 +4,7 @@ repository: mrufflesmcghie/resume
 
 # Personal info
 name: Matt Ruffles-Mcghie
-title: Desktop Support Engineer / Full Time Father
+title: Senior Network System Administrator
 email: matt.rufflesmcghie@gmail.com
 website: www.github.com/mrufflesmcghie/resume
 
@@ -24,9 +24,10 @@ github_username:  mrufflesmcghie
 # about_title: About Me
 about_profile_image: images/profile2.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Matt and I'm a <mark>Microsoft Desktop Support Engineer </mark> and a <mark>Full Time Father</mark> As well as supporting major companies IT systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Matt and I'm a full time father & IT Support Engineer. After having 5 years away from IT to focus on Family Life I have made the decision to retrain in Teaching.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am currently studying City & Guilds Level 2 Certificate in Supporting Teaching and Learning in Schools. 
+  In my spare time I'm also learning <mark>Full Stack Web Development </mark> primarily focusing on Laravel & Vue. 
 
 # Projects Section
 # projects_title: Projects
