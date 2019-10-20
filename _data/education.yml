@@ -1,8 +1,28 @@
 - layout: left
   name: Adult Learning - Milton Keynes
-  dates: 2019 - Current (2020)
+  dates: 2019 - Current
   qualification: City & Guilds Level 2 Certificate - Supporting Teaching and Learning in Schools 
   quote: >
+  description: | # this will include new lines to allow paragraphs
     
+- layout: left
+  name: Milton Keynes College
+  dates: 
+  qualification: City & Guilds Level 2 Certificate - Customer Service
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    
+- layout: left
+  name: IT Acedemy (Zenos) 
+  dates: 
+  qualification: City & Guilds Level 2 Certificate - Supporting Teaching and Learning in Schools 
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    
+- layout: left
+  name: Sir Frank Markham Community School
+  dates: 
+  qualification: City & Guilds Level 2 Certificate - Supporting Teaching and Learning in Schools 
+  quote: >
   description: | # this will include new lines to allow paragraphs
     
