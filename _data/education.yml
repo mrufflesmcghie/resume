@@ -3,7 +3,7 @@
   dates: "2019 - Current"
   description: ""
   layout: top-middle
-  location: "Adult Learning Milton Keynes"
+  name: "Adult Learning Milton Keynes"
   qualification: "City & Guilds Level 2 Certificate - Supporting Teaching and Learning in Schools"
 
 - 
@@ -11,10 +11,10 @@
   description: ""
   layout: top-middle 
   name: "Milton Keynes College"
-  qualification: "City & Guilds Level 2 Certificate"
-  quote: |
-      Principles of Customer Service
-          >Introduction to Contact Centres
+  qualification: "City & Guilds Level 2 Certificate
+*Principles of Customer Service
+*Introduction to Contact Centres"
+  
 - 
   dates: ~
   description: ""
