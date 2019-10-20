@@ -11,7 +11,8 @@
   description: ""
   layout: top-middle 
   name: "Milton Keynes College"
-  qualification: | "City & Guilds Level 2 Certificate" 
+  qualification: | #Givrs more lines 
+City & Guilds Level 2 Certificate
 
   
 - Principles of Customer Service
