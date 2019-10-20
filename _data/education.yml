@@ -9,7 +9,7 @@
 - 
   dates: ~
   description: ""
-  layout: left
+  layout: top-middle 
   name: "Milton Keynes College"
   qualification: "City & Guilds Level 2 Certificate"
   quote: |
@@ -18,14 +18,14 @@
 - 
   dates: ~
   description: ""
-  layout: left
+  layout: top-middle 
   name: "IT Acedemy (Zenos)"
   qualification: "City & Guilds Level 2 Certificate - Supporting Teaching and Learning in Schools"
   quote: ""
 - 
   dates: ~
   description: ""
-  layout: left
+  layout: top-middle 
   name: "Sir Frank Markham Community School"
   qualification: "City & Guilds Level 2 Certificate - Supporting Teaching and Learning in Schools"
   quote: ""
