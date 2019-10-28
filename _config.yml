@@ -55,7 +55,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: mrufflesmcghie/modern-resume-theme
+remote_theme: mrufflesmcghie/modern-resume-theme@FontAwesome
 
 sass:
   sass_dir: _sass
