@@ -4,7 +4,10 @@ repository: mrufflesmcghie/resume
 
 # Personal info
 name: Matt Ruffles-Mcghie
-title: Full Time Dad / Trainee Teaching Assistant / IT Support Engineer
+title: | 
+  - Full Time Dad
+  - Trainee Teaching Assistant
+  - IT Support Engineer
 email: matt.rufflesmcghie@gmail.com
 website: www.github.com/mrufflesmcghie/resume
 
