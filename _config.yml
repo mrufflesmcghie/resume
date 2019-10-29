@@ -4,11 +4,18 @@ repository: mrufflesmcghie/resume
 
 # Personal info
 name: Matt Ruffles-Mcghie
-title: |
+title: | # this will include new lines to allow paragraphs
   
-  * Full Time Dad
-  * Trainee Teaching Assistant
-  * IT Support Engineer
+   - Full Time Father
+   - Trainee Teaching Assistant 
+   - IT Support Engineer & Web Developer
+
+
+
+  
+
+
+
   
 email: matt.rufflesmcghie@gmail.com
 website: www.github.com/mrufflesmcghie/resume
