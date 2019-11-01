@@ -2,4 +2,5 @@
 My Public Resume
 https://mrufflesmcghie.github.io/resume/
 
-Rebuild X2 
+## Built using https://github.com/mrufflesmcghie/modern-resume-theme
+
