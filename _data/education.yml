@@ -1,7 +1,9 @@
-- name: Supporting Teaching and Learning in Schools 
-  dates: 2019-Current
-  description: |
-     Currently studying City & Guilds Level 2 Certificate in Supporting Teaching and Learning in Schools, as part of my road into Teaching & support roles in Schools.
-     
-- name: Introduction to Contact Centres / Customer Service Level 2
-
+# Education Template
+- layout: left
+  name: Milton Keynes Council - Community Learning
+  dates: 2019 - Current
+  qualification: City & Guilds Level 2 Certificate in Supporting Teaching and Learning in Schools
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
