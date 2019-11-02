@@ -5,7 +5,7 @@ image: path/to/img
 order: 3
 # Specify the layout for this section
 
-# include: sections/two-column.html
+include: includes/about.html
 
 
 
