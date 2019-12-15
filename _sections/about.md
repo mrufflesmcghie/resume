@@ -11,9 +11,9 @@ include: includes/about.html
 
 # Set style variables
 bg-opaque-overlay: rgba(0,200,0,0.3)
-bg_image: http://loremflickr.com/2000/600/robot
+bg_color:red;
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This is a test 
 
 ### Ut enim ad minim veniam
 
