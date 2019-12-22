@@ -7,6 +7,7 @@ name: Matt Ruffles-Mcghie
 email: matt.rufflesmcghie@gmail.com
 website: www.github.com/mrufflesmcghie/resume
 
+darkmode: true
 #Collections
 collections:
  sections:
