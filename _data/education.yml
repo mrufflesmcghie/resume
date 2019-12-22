@@ -1,12 +1,17 @@
 # Education Template
-- layout: left
+- layout: top-middle
   name: Milton Keynes Council - Community Learning
   dates: 2019 - Current
-  qualification: City & Guilds Level 2 Certificate in Supporting Teaching and Learning in Schools. 
+  qualification: Supporting Teaching and Learning in Schools. 
   
 
   
-- layout: left
+- layout: top-middle
   name: Milton Keynes College
   dates: 
-  qualification: City & Guilds Level 2 - Customer Service
+  qualification: Customer Service
+  
+- layout: top-middle
+  name: Milton Keynes College
+  dates: 
+  qualification: Introduction to contact centers
