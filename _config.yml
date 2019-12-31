@@ -9,7 +9,27 @@ website: www.github.com/mrufflesmcghie/resume
 
 darkmode: true
 
+collections:
 
+  education:
+
+    output: true
+
+  projects:
+
+    output: true
+
+defaults:
+
+  - scope:
+
+      path: "/education" # an empty string here means all files in the project
+
+    values:
+
+      category: education
+
+      layout: education
 
 # Social links
 #twitter_username: 
