@@ -9,27 +9,7 @@ website: www.github.com/mrufflesmcghie/resume
 
 darkmode: true
 
-collections_dir: sections
 
-collections:
-
-  education:
-
-    output: true
-
-  projects:
-
-    output: true
-
-defaults:
-
-  - scope: 
-
-    type: education
-
-    values:
-     layout: education
-     
 
       
 
