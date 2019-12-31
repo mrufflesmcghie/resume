@@ -23,15 +23,15 @@ collections:
 
 defaults:
 
-  - scope: education
+  - scope: 
 
-      path: "/education" # an empty string here means all files in the project
+    type: education
 
     values:
-
+     layout: education
      
 
-      layout: education
+      
 
 # Social links
 #twitter_username: 
