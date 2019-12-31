@@ -25,7 +25,7 @@ defaults:
 
   - scope: education
 
-      path: "education" # an empty string here means all files in the project
+      path: "/education" # an empty string here means all files in the project
 
     values:
 
